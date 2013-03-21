@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="OJP Basic">
+</Property><Property Name="Solution File" Value="C:\projects\GunSlingers_Academy\Basic\source\OJP Basic.sln">
+</Property><Property Name="Date" Value="Monday, May 31, 2010">
+</Property><Property Name="Time" Value="11:17 AM">
+</Property></Properties><Event ErrorLevel="0" Project="JK2_cgame" Source="cgame\JK2_cgame.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="JK2_cgame" Source="cgame\JK2_cgame.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="JK2_cgame" Source="cgame\JK2_cgame.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="JK2_cgame" Source="cgame\JK2_cgame.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="JK2_game" Source="game\JK2_game.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="JK2_game" Source="game\JK2_game.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="JK2_game" Source="game\JK2_game.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="JK2_game" Source="game\JK2_game.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="botlib" Source="botlib\botlib.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="botlib" Source="botlib\botlib.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="botlib" Source="botlib\botlib.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ui" Source="ui\ui.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="ui" Source="ui\ui.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="ui" Source="ui\ui.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="ui" Source="ui\ui.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="OJP Basic.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="OJP Basic.sln" Description="Converted">
+</Event></UpgradeLog>
