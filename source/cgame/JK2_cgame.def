@@ -1,0 +1,10 @@
+EXPORTS
+	vmMain
+	dllEntry
+	Com_Error
+	Com_Printf
+	trap_FS_FOpenFile
+	trap_FS_Read
+	trap_FS_Write
+	trap_FS_FCloseFile
+	

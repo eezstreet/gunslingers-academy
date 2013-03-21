@@ -1,0 +1,1 @@
+extern void SP_info_domination_base(gentity_t *ent);
